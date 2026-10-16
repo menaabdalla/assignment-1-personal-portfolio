@@ -1,0 +1,27 @@
+body{background-color: gainsboro}
+*{box-sizing: border-box;}
+.text-center{text-align: center}
+.clear-fix{clear:both}
+.margin-out{margin:20px}
+.margin-in{ margin: 20px;}
+.padding-out{padding:30px;}
+.padding-in{padding: 20px ;}
+.back-color{background-color: gainsboro;;}
+.back-colora{background-color: rgb(24, 72, 123, 0.178);}
+.back-colorb{  background-color: rgb(24, 72, 123)}
+.radius-out{border-radius: 50px;}
+.display-inline{display: inline;}
+
+.about-me img{
+    border-radius: 50%;
+    float: left;
+    height: 200px;
+    width:200px;}
+.skill{ 
+    float: left;
+    width:25% ;}
+.skill img{width: 25%; }
+.experience-parent{
+    width: 50%;
+    float:left}
+.experience-parent img{ width: 10%}
